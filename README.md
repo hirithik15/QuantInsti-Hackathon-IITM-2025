@@ -1,6 +1,6 @@
 # QuantInsti-Hackathon-IITM-2025
 
-# Next-Week Equity Return Prediction & Systematic Top-2 Strategy  
+## Next-Week Equity Return Prediction & Systematic Top-2 Strategy  
 ### QuantInsti Hackathon (IIT Madras) — Ranked 3rd
 
 This project builds a walk-forward machine learning pipeline to predict next-week positive returns for equities and executes a systematic long-only strategy with transaction costs.
